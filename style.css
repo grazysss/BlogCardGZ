@@ -76,11 +76,12 @@ body {
     font-weight: 800;
     width: 300px;
     color: black;
+    
+    transition-duration: 0.2s;
 }
 
 .title:hover {
     color: #F4D04E;
-    transition-duration: 0.2s;
 }
 
 .languagens {
