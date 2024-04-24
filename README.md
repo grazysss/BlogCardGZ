@@ -4,11 +4,11 @@ Enhancement Challenge on Frontend Mentor, Solution by Grazy =)
 
 ## Table of content
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Author](#author)
+  - [Screenshot](#📸-screenshot)
+  - [Links](#🔗-links)
+- [My process](#💡-my-process)
+  - [Built with](#build-with)
+- [Author](#💞-author)
 <br>
 <br>
 
@@ -37,7 +37,7 @@ This is my solution: ⇧
 
 
 ## 💡 My process
-- Build with:
+### Build with:
   - HTML
   - CSS
   - Flexbox
