@@ -21,7 +21,12 @@ This is my solution: ⇧
 
 .
 
-.
+# 🚨 NEW
+Active:
+<img src="./img/screenshot-active.png">
+ANIMATION!!! <br> With the help of the cursor, the TITLE CHANGES COLOR.
+🤯🤯🤯
+
 # 💻 For desktop:
 <img style="text-align: center;" src="./img/screenshot-preview-desktop.png">
 .
@@ -41,6 +46,7 @@ This is my solution: ⇧
   - HTML
   - CSS
   - Flexbox
+  - Animation
   - Figma
   - Git 
   - Github
